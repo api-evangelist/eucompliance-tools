@@ -1,4 +1,4 @@
-# eucompliance-tools
+# EU Compliance Toolkit
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,167 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eucompliance-tools is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://eucompliance.tools/
+EU Compliance Toolkit provides free and paid API tools for EU compliance checks, including VAT, IBAN, sanctions, counterparty and e-invoice validation. Operated by sole proprietor Kaufmann Patrick in Vienna, Austria, the service offers a deterministic tool router, signed evidence receipts, and optional machine payment via x402. No account is required for up to 100 free calls per day.
+
+**Areas:** Compliance · EU · API · Automation · Finance
+
+## EU Compliance Toolkit on APIs.io
+
+Everything profiled for EU Compliance Toolkit is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/eucompliance-tools/](https://apis.io/providers/eucompliance-tools/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [EU Compliance Toolkit Agent Card.json API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-agent-card-json-api/) — The Agent Card.json API from EU Compliance Toolkit — 1 operation(s) for agent card.json.
+- [EU Compliance Toolkit Agents.json API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-agents-json-api/) — The Agents.json API from EU Compliance Toolkit — 1 operation(s) for agents.json.
+- [EU Compliance Toolkit Company API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-company-api/) — The Company API from EU Compliance Toolkit — 1 operation(s) for company.
+- [EU Compliance Toolkit Counterparty API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-counterparty-api/) — The Counterparty API from EU Compliance Toolkit — 1 operation(s) for counterparty.
+- [EU Compliance Toolkit Einvoice API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-einvoice-api/) — The Einvoice API from EU Compliance Toolkit — 1 operation(s) for einvoice.
+- [EU Compliance Toolkit Free API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-free-api/) — The Free API from EU Compliance Toolkit — 13 operation(s) for free.
+- [EU Compliance Toolkit Health API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-health-api/) — The Health API from EU Compliance Toolkit — 1 operation(s) for health.
+- [EU Compliance Toolkit Iban API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-iban-api/) — The Iban API from EU Compliance Toolkit — 1 operation(s) for iban.
+- [EU Compliance Toolkit Mcp Tools.json API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-mcp-tools-json-api/) — The Mcp Tools.json API from EU Compliance Toolkit — 1 operation(s) for mcp tools.json.
+- [EU Compliance Toolkit Micro API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-micro-api/) — The Micro API from EU Compliance Toolkit — 1 operation(s) for micro.
+- [EU Compliance Toolkit Models API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-models-api/) — The Models API from EU Compliance Toolkit — 1 operation(s) for models.
+- [EU Compliance Toolkit Plus API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-plus-api/) — The Plus API from EU Compliance Toolkit — 1 operation(s) for plus.
+- [EU Compliance Toolkit Sanctions API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-sanctions-api/) — The Sanctions API from EU Compliance Toolkit — 1 operation(s) for sanctions.
+- [EU Compliance Toolkit Signup API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-signup-api/) — The Signup API from EU Compliance Toolkit — 1 operation(s) for signup.
+- [EU Compliance Toolkit Vat API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-vat-api/) — The Vat API from EU Compliance Toolkit — 3 operation(s) for vat.
+- [EU Compliance Toolkit Vat Rules API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-vat-rules-api/) — The Vat Rules API from EU Compliance Toolkit — 1 operation(s) for vat rules.
+- [EU Compliance Toolkit Verify API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-verify-api/) — The Verify API from EU Compliance Toolkit — 1 operation(s) for verify.
+- [EU Compliance Toolkit .well Known API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-well-known-api/) — The .well Known API from EU Compliance Toolkit — 2 operation(s) for .well known.
+- [EU Compliance Toolkit X402 API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-x402-api/) — The X402 API from EU Compliance Toolkit — 32 operation(s) for x402.
+- [EU Compliance Toolkit Chat Completions API](https://apis.io/apis/eucompliance-tools/eucompliance-tools-chat-completions-api/) — The Chat Completions API from EU Compliance Toolkit — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Eucompliance Tools Agentic Access](https://apis.io/agentic-access/eucompliance-tools/eucompliance-tools-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Body_free_einvoice_free_einvoice_post](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-body-free-einvoice-free-einvoice-post/)
+- [Body_x402_einvoice_x402_einvoice_post](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-body-x402-einvoice-x402-einvoice-post/)
+- [InvoiceToPayRequest](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-invoice-to-pay-request/)
+- [SignupReq](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-signup-req/)
+- [ToolRecommendationReq](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-tool-recommendation-req/)
+- [VatBatchReq](https://apis.io/schemas/eucompliance-tools/eucompliance-tools-vat-batch-req/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Eucompliance Tools Context](https://apis.io/jsonld/eucompliance-tools/eucompliance-tools-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Eucompliance Tools Overlay](https://apis.io/overlays/eucompliance-tools/eucompliance-tools-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [EU Compliance Toolkit API Rules](https://apis.io/rules/eucompliance-tools/eucompliance-tools-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Eucompliance Tools Authentication](https://apis.io/security/eucompliance-tools/eucompliance-tools-authentication/)
+- [Eucompliance Tools Domain Security](https://apis.io/security/eucompliance-tools/eucompliance-tools-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Eucompliance Tools Scopes](https://apis.io/scopes/eucompliance-tools/eucompliance-tools-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Eucompliance Tools Plans Pricing](https://apis.io/plans/eucompliance-tools/eucompliance-tools-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Eucompliance Tools Rate Limits](https://apis.io/rate-limits/eucompliance-tools/eucompliance-tools-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eucompliance.tools/)
+- [Documentation](https://eucompliance.tools/agents.json)
+- [Getting started](https://eucompliance.tools/kaufen)
+- [API reference](https://eucompliance.tools/mcp-tools.json)
+- [Pricing](https://eucompliance.tools/kaufen)
+- [Support](https://eucompliance.tools/impressum)
+- [Terms of service](https://eucompliance.tools/impressum#bedingungen)
+- [Privacy policy](https://eucompliance.tools/impressum#datenschutz)
+- [GitHub](https://github.com/PatrickPi1312/eucompliance-tools)
+
+## API Evangelist rating
+
+**Kin Score 56.7** — strong · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 53.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 46.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/eucompliance-tools/](https://apis.io/providers/eucompliance-tools/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for EU Compliance Toolkit: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/eucompliance-tools/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
